@@ -1,0 +1,1 @@
+$ abs(union.big_(i=1)^(n) A_i)=sum_(i=1)^(n)abs(A_i)-sum_(i<j)abs(A_i inter A_j)+...+(-1)^(n-1)abs(inter.big_(i=1)^(n)A_i) $

@@ -1,0 +1,1 @@
+$ "AREA"="INTERIOR"+"BOUNDARY"/2-1 $
