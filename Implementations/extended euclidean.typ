@@ -1,1 +1,0 @@
-A sequence $(d_1,...,d_n)$ (in decreasing order) is a degree sequence $<==>$ $d_1+...+d_n$ is even and for each $1<=k<=n$ $ sum_(i=1)^n d_i<=k(k-1)+sum_(i=k+1)^n min(d_i,k) $
